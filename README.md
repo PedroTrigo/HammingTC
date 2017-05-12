@@ -1,0 +1,2 @@
+# HammingTC
+Implementación código Hamming
